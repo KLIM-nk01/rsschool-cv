@@ -1,1 +1,1 @@
-https://KLIM-nk01.github.io/rsschool-cv/
+https://KLIM-nk01.github.io/rsschool-cv/cv

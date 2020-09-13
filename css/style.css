@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    height: auto;
+    font-family: "PT Sans Narrow",Arial, sans-serif;
+
+    background-color: #000000;
+    background-image: url(../img/zakat.jpg);
+    background-position: top center;
+    background-repeat: no-repeat; 
+    background-size: 100%;
+
+}
+
+.myPhoto{
+    border: 2px solid #000000;
+    margin-left: 20px;
+    height: 300px;
+}
+
+.main{
+    margin-top: 60px;
+    width: 50%;
+}
